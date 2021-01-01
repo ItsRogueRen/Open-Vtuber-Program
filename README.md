@@ -12,6 +12,7 @@ There are things still needed to improve this project! If you want to help, I'm 
 I'm currently taking C# classes to write some code that will allow uploading your own model to the built application, but if someone has already found a way to do this feel free to save me the time!
 
 HOW TO EDIT THE MODEL
+
 To edit the model with your own, you model must be a vrm and you need to have the UniVRM plugin in Unity.
 - Open the project in Unity
 - import your model via UniVRM
