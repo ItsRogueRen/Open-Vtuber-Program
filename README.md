@@ -13,7 +13,7 @@ I'm currently taking C# classes to write some code that will allow uploading you
 
 HOW TO EDIT THE MODEL
 
-To edit the model with your own, you model must be a vrm and you need to have the UniVRM plugin in Unity.
+To edit the model with your own, your model must be a vrm file and you need to have the UniVRM plugin in Unity.
 - Open the project in Unity
 - import your model via UniVRM
 - Make a duplicate of your head, and in the heiarchy (the list of things in the scene) move the duplicate head to the top. Rename it something along the lines of IK-container
