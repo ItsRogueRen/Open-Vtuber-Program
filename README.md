@@ -10,3 +10,14 @@ There are things still needed to improve this project! If you want to help, I'm 
 - Any custom C# code you think will help improve the application!
 
 I'm currently taking C# classes to write some code that will allow uploading your own model to the built application, but if someone has already found a way to do this feel free to save me the time!
+
+HOW TO EDIT THE MODEL
+To edit the model with your own, you model must be a vrm and you need to have the UniVRM plugin in Unity.
+- Open the project in Unity
+- import your model via UniVRM
+- Make a duplicate of your head, and in the heiarchy (the list of things in the scene) move the duplicate head to the top. Rename it something along the lines of IK-container
+- Copy the components from the included container piece to your head duplicate and then delete the original container.
+- Copy components from my model to the same locations on your model, and then delete my model
+- Build the game from the menu for your OS (Linux, Windows, or MacOS)
+
+Hopefully the next time I update this it will be for a menu to upload your vrm model and have a script to do all this for you.
