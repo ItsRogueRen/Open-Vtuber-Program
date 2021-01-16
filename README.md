@@ -21,4 +21,10 @@ To edit the model with your own, your model must be a vrm file and you need to h
 - Copy components from my model to the same locations on your model, and then delete my model
 - Build the game from the menu for your OS (Linux, Windows, or MacOS)
 
-Hopefully the next time I update this it will be for a menu to upload your vrm model and have a script to do all this for you.
+OPEN VTUBER PROGRAM CURRENTLY USES:
+FastIK/Formerly SimpleIK (Open Source) - https://github.com/ditzel/SimpleIK
+OpenSeeFace (Open Source) - https://github.com/emilianavt/OpenSeeFace
+Unity (Closed source, but source code is readable) - https://github.com/Unity-Technologies/UnityCsReference
+COMING SOON uLipSync (Open Source) - https://github.com/hecomi/uLipSync
+
+MENUS ARE CURRENTLY BEING WORKED ON
