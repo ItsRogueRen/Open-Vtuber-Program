@@ -22,9 +22,9 @@ To edit the model with your own, your model must be a vrm file and you need to h
 - Build the game from the menu for your OS (Linux, Windows, or MacOS)
 
 OPEN VTUBER PROGRAM CURRENTLY USES:
-FastIK/Formerly SimpleIK (Open Source) - https://github.com/ditzel/SimpleIK
-OpenSeeFace (Open Source) - https://github.com/emilianavt/OpenSeeFace
-Unity (Closed source, but source code is readable) - https://github.com/Unity-Technologies/UnityCsReference
-COMING SOON uLipSync (Open Source) - https://github.com/hecomi/uLipSync
+- FastIK/Formerly SimpleIK (Open Source) - https://github.com/ditzel/SimpleIK
+- OpenSeeFace (Open Source) - https://github.com/emilianavt/OpenSeeFace
+- Unity (Closed source, but source code is readable) - https://github.com/Unity-Technologies/UnityCsReference
+- COMING SOON uLipSync (Open Source) - https://github.com/hecomi/uLipSync
 
 MENUS ARE CURRENTLY BEING WORKED ON
