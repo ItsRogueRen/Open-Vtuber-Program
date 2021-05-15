@@ -1,4 +1,9 @@
 # Open-Vtuber-Program
+
+THIS PROJECT IS BEING SCRAPED, A BETTER VERSION USING THE GODOT GAME ENGINE IS BEING MADE CALLED `OpenSeeFace-GD`
+https://github.com/you-win/openseeface-gd
+THE CURRENT VERSION WILL REMAIN UP IF ANYONE WISHES TO FORK AND CONTINUE IT
+
 An open-source Vtuber application for Linux, Windows, and MacOS
 
 This program is current in very early development and merely a proof of concept at the moment. Included is the Unity project and a build for Linux x86_64
